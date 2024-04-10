@@ -1,3 +1,5 @@
+.venv
+
 .pypirc
 .DS_Store
 *.pyc
